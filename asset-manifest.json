@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mealready/static/css/main.8c3253b7.css",
+    "main.js": "/mealready/static/js/main.1d5199fa.js",
+    "static/js/787.95e549cd.chunk.js": "/mealready/static/js/787.95e549cd.chunk.js",
+    "static/media/maintenance.jpg": "/mealready/static/media/maintenance.32b2cb0ec09a8f41968b.jpg",
+    "static/media/erreur_serveur.jpg": "/mealready/static/media/erreur_serveur.4283ea4e166c553ce1dc.jpg",
+    "static/media/image-1@2x.jpg": "/mealready/static/media/image-1@2x.a083d1ed38e627f80897.jpg",
+    "index.html": "/mealready/index.html",
+    "main.8c3253b7.css.map": "/mealready/static/css/main.8c3253b7.css.map",
+    "main.1d5199fa.js.map": "/mealready/static/js/main.1d5199fa.js.map",
+    "787.95e549cd.chunk.js.map": "/mealready/static/js/787.95e549cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3253b7.css",
+    "static/js/main.1d5199fa.js"
+  ]
+}
