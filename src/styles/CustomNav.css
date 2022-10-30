@@ -1,0 +1,10 @@
+.CustomNav {
+    background-color: rgb(241, 209, 69);
+    height: 150px;
+    line-height: 150px;
+}
+
+.CustomNav:hover {
+    background-color: rgb(123, 69, 241);
+    color: white;
+}

@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn-delete {
+  height: 50px;
+  line-height: 40px;
+}
+
+.btn-plat {
+  background-color: rgb(241, 209, 69);
+  height: 50px;
+  line-height: 40px;
+  color: black;
+  border: none;
+  border-radius: 6px;
+}
+
+.btn-plat:hover {
+  background-color: rgb(123, 69, 241);
+  color: white;
+}
