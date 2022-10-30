@@ -15,6 +15,7 @@ function Plat({ plat }) {
         const url = `https://mealready.herokuapp.com/plats/${plat.id}`;
         fetch(url).then(resp => resp.json())
             .then(resp => {
+                console.log();
                 setPhoto(`${pathImage}/${resp.photo}`);
             })
             .catch(err => {
