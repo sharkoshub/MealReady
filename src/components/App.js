@@ -39,11 +39,11 @@ function App() {
       />
       <Menu />
       <Routes>
-        <Route exact path={'/plats'} element={<ListePlats />}></Route>
-        <Route exact path='/a-livrer' element={<ALivrer />}></Route>
-        <Route exact path='/profil' element={<Profil />}></Route>
-        <Route exact path='/add-plat' element={<FormPlats />}></Route>
-        <Route exact path='/update-plat/:id' element={<FormModifPlats />}></Route>
+        <Route exact path={'/MealReady/plats'} element={<ListePlats />}></Route>
+        <Route exact path='/MealReady/a-livrer' element={<ALivrer />}></Route>
+        <Route exact path='/MealReady/profil' element={<Profil />}></Route>
+        <Route exact path='/MealReady/add-plat' element={<FormPlats />}></Route>
+        <Route exact path='/MealReady/update-plat/:id' element={<FormModifPlats />}></Route>
       </Routes>
       <CustomNav />
     </div >
