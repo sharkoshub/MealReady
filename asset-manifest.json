@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MealReady/plats/static/css/main.8c3253b7.css",
-    "main.js": "/MealReady/plats/static/js/main.1576329e.js",
-    "static/js/787.95e549cd.chunk.js": "/MealReady/plats/static/js/787.95e549cd.chunk.js",
-    "static/media/maintenance.jpg": "/MealReady/plats/static/media/maintenance.32b2cb0ec09a8f41968b.jpg",
-    "static/media/erreur_serveur.jpg": "/MealReady/plats/static/media/erreur_serveur.4283ea4e166c553ce1dc.jpg",
-    "static/media/image-1@2x.jpg": "/MealReady/plats/static/media/image-1@2x.a083d1ed38e627f80897.jpg",
-    "index.html": "/MealReady/plats/index.html",
-    "main.8c3253b7.css.map": "/MealReady/plats/static/css/main.8c3253b7.css.map",
-    "main.1576329e.js.map": "/MealReady/plats/static/js/main.1576329e.js.map",
-    "787.95e549cd.chunk.js.map": "/MealReady/plats/static/js/787.95e549cd.chunk.js.map"
+    "main.css": "/Mealy/static/css/main.8c3253b7.css",
+    "main.js": "/Mealy/static/js/main.cab32b7b.js",
+    "static/js/787.95e549cd.chunk.js": "/Mealy/static/js/787.95e549cd.chunk.js",
+    "static/media/maintenance.jpg": "/Mealy/static/media/maintenance.32b2cb0ec09a8f41968b.jpg",
+    "static/media/erreur_serveur.jpg": "/Mealy/static/media/erreur_serveur.4283ea4e166c553ce1dc.jpg",
+    "static/media/image-1@2x.jpg": "/Mealy/static/media/image-1@2x.a083d1ed38e627f80897.jpg",
+    "index.html": "/Mealy/index.html",
+    "main.8c3253b7.css.map": "/Mealy/static/css/main.8c3253b7.css.map",
+    "main.cab32b7b.js.map": "/Mealy/static/js/main.cab32b7b.js.map",
+    "787.95e549cd.chunk.js.map": "/Mealy/static/js/787.95e549cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c3253b7.css",
-    "static/js/main.1576329e.js"
+    "static/js/main.cab32b7b.js"
   ]
 }
